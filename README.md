@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Prince-Shukla/Leetcode/tree/master/0190-reverse-bits) |
+| [0218-the-skyline-problem](https://github.com/Prince-Shukla/Leetcode/tree/master/0218-the-skyline-problem) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Prince-Shukla/Leetcode/tree/master/0218-the-skyline-problem) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prince-Shukla/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -23,4 +25,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prince-Shukla/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Prince-Shukla/Leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Prince-Shukla/Leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Prince-Shukla/Leetcode/tree/master/0218-the-skyline-problem) |
+## Sorting
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Prince-Shukla/Leetcode/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Prince-Shukla/Leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Prince-Shukla/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
